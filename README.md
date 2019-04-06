@@ -1,4 +1,4 @@
-# third_year
+# Third Year
 
 CSC311 and CSC312
 
